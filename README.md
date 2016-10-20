@@ -1,10 +1,4 @@
 An index of past and current projects, organized by last commit.
-<br><br>
-alive: in development  
-finished: project goals met, implies usability & death  
-usable: project is useful/runnable  
-dead: no further development planned
-<br><br>
 
 | name | date started | time since last commit | status | 
 | ---- | --------- | ---- | --------- | 
@@ -18,3 +12,9 @@ dead: no further development planned
 | [current-location](https://github.com/sam-and-randall/ware) | spring 2016 | months | usable |
 | [photo-and-song](https://github.com/sam-and-randall/generic) | spring 2016 | months | dead |
 
+<br><br>
+**alive**: in development
+**finished**: project goals met, implies usability & death  
+**usable**: project is useful/runnable  
+**dead**: no further development planned
+<br><br>
