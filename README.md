@@ -1,9 +1,10 @@
 An index of past and current projects, organized by last commit.
-
+<br>
 alive: in development  
 finished: project goals met, implies usability & death  
 usable: project is useful/runnable  
-dead: no further development planned  
+dead: no further development planned
+<br><br>
 
 | name | date started | time since last commit | status | 
 | ---- | --------- | ---- | --------- | 
