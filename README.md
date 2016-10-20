@@ -1,5 +1,5 @@
 An index of past and current projects, organized by last commit.
-<br>
+<br><br>
 alive: in development  
 finished: project goals met, implies usability & death  
 usable: project is useful/runnable  
