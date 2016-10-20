@@ -13,7 +13,7 @@ An index of past and current projects, organized by last commit.
 | [photo-and-song](https://github.com/sam-and-randall/generic) | spring 2016 | months | dead |
 
 <br><br>
-**alive**: in development
+**alive**: in development  
 **finished**: project goals met, implies usability & death  
 **usable**: project is useful/runnable  
 **dead**: no further development planned
