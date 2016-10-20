@@ -9,8 +9,8 @@ An index of past and current projects, organized by last commit.
 | [update-profile](https://github.com/samputnam/one) | spring 2016 | months| dead |
 | [social-post](https://github.com/samputnam/share) | spring 2016 | months | usable |
 | [user-login](https://github.com/samputnam/homesafe) | spring 2016 | months | dead |
-| [current-location](https://github.com/sam-and-randall/ware) | spring 2016 | months | usable |
-| [photo-and-song](https://github.com/sam-and-randall/generic) | spring 2016 | months | dead |
+| [current-location](https://github.com/dartmouth-entrepreneurial-network/ware) | spring 2016 | months | usable |
+| [photo-and-song](https://github.com/dartmouth-entrepreneurial-network/generic) | spring 2016 | months | dead |
 
 <br><br>
 **alive**: in development  
