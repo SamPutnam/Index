@@ -1,4 +1,4 @@
-An index of past and current projects, organized by last code commit.
+An index of past and current projects, ranked by last code commit.
 
 Last code commit does not include minor changes and correlates strongly with health of a project (alive --> dead). 
 
