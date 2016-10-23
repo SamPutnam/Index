@@ -1,6 +1,6 @@
 An index of past and current projects, ranked by last code commit. The alive projects do not contain code.
 
-Last code commit does not count non-code changes and correlates strongly with project health (alive --> dead). 
+Last code commit does not count non-code commits, so it correlates strongly with project health (alive --> dead). 
 
 <br>
 **alive**: in development  
