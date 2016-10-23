@@ -1,6 +1,13 @@
 An index of past and current projects, ranked by last code commit.
 
-Last code commit does not include non-code changes and correlates strongly with health of a project (alive --> dead). 
+Last code commit does not count non-code changes and correlates strongly with project health (alive --> dead). 
+
+<br>
+**alive**: in development  
+**finished**: project goals met, implies usability & death  
+**usable**: project is useful/runnable  
+**dead**: no further development planned
+<br><br>
 
 | name | date started | last code commit | status | 
 | ---- | --------- | ---- | --------- | 
@@ -16,9 +23,4 @@ Last code commit does not include non-code changes and correlates strongly with 
 | [photo-and-song](https://github.com/dartmouth-entrepreneurial-network/generic) | spring 2016 | months ago | dead |
 | [design-lander](https://github.com/samputnam/putnamholson) | fall 2015 | years ago | finished |
 
-<br><br>
-**alive**: in development  
-**finished**: project goals met, implies usability & death  
-**usable**: project is useful/runnable  
-**dead**: no further development planned
-<br><br>
+
