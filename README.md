@@ -1,16 +1,20 @@
-An index of past and current projects, organized by last commit.
+An index of past and current projects, organized by last code commit.
 
-| name | date started | time since last commit | status | 
+Last code commit does not include minor changes and correlates strongly with health of a project (alive --> dead). 
+
+| name | date started | last code commit | status | 
 | ---- | --------- | ---- | --------- | 
-| [greedy-algos](https://github.com/samputnam/haskell) | fall 2016 | days | alive |
-| [huffman-algo](https://github.com/samputnam/scala) | fall 2016 | days | alive |
-| [supervised-learning](https://github.com/samputnam/kaggle-r) | fall 2016 | days | alive |
-| [photo-sharing-app](https://github.com/samputnam/wings) | summer 2016 | days | finished |
-| [update-profile](https://github.com/samputnam/one) | spring 2016 | months| dead |
-| [social-post](https://github.com/samputnam/share) | spring 2016 | months | usable |
-| [user-login](https://github.com/samputnam/homesafe) | spring 2016 | months | dead |
-| [current-location](https://github.com/dartmouth-entrepreneurial-network/ware) | spring 2016 | months | usable |
-| [photo-and-song](https://github.com/dartmouth-entrepreneurial-network/generic) | spring 2016 | months | dead |
+| [greedy-algos](https://github.com/samputnam/haskell) | fall 2016 | days ago | alive |
+| [huffman-algo](https://github.com/samputnam/scala) | fall 2016 | days ago | alive |
+| [supervised-learning](https://github.com/samputnam/kaggle-r) | fall 2016 | days ago | alive |
+| [ml-lander](https://github.com/samputnam/vahula) | fall 2016 | weeks ago | finished |
+| [photo-sharing-app](https://github.com/samputnam/wings) | summer 2016 | weeks ago | finished |
+| [update-profile](https://github.com/samputnam/one) | spring 2016 | months ago| dead |
+| [social-post](https://github.com/samputnam/share) | spring 2016 | months ago | usable |
+| [user-login](https://github.com/samputnam/homesafe) | spring 2016 | months ago | dead |
+| [current-location](https://github.com/dartmouth-entrepreneurial-network/ware) | spring 2016 | months ago | usable |
+| [photo-and-song](https://github.com/dartmouth-entrepreneurial-network/generic) | spring 2016 | months ago | dead |
+| [design-lander](https://github.com/samputnam/putnamholson) | fall 2015 | years ago | finished |
 
 <br><br>
 **alive**: in development  
