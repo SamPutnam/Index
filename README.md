@@ -1,6 +1,6 @@
 An index of past and current projects, ranked by last code commit.
 
-Last code commit does not include minor changes and correlates strongly with health of a project (alive --> dead). 
+Last code commit does not include non-code changes and correlates strongly with health of a project (alive --> dead). 
 
 | name | date started | last code commit | status | 
 | ---- | --------- | ---- | --------- | 
