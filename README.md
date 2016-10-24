@@ -1,6 +1,6 @@
-An index of past and current projects, ranked by last code commit. 
+This is an index of past and current projects, ranked by *last code commit*. 
 
-This metric does not count readme or non-code commits, so it correlates strongly with real codebase health (alive --> dead). 
+As the name suggests, last code commit does not count non-code commits, so it correlates strongly with current codebase vigor.
 
 <br>
 **alive**: in development  
