@@ -25,6 +25,6 @@ If a project is alive, run it first try.
 | [user-login](https://github.com/samputnam/homesafe) | spring 2016 | months ago | dead |
 | [current-location](https://github.com/dartmouth-entrepreneurial-network/ware) | spring 2016 | months ago | usable |
 | [photo-and-song](https://github.com/dartmouth-entrepreneurial-network/generic) | spring 2016 | months ago | dead |
-| [design-lander](https://github.com/samputnam/putnamholson) | fall 2015 | years ago | finished |
+| [design-lander](https://github.com/samputnam/putnamholson) | fall 2015 | a year ago | finished |
 
 
