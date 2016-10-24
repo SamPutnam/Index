@@ -1,6 +1,6 @@
 This is an index of past and current projects, ranked by *last code commit*. 
 
-As the name suggests, last code commit doesn't count non-code commits. It correlates strongly with codebase vigor.
+As the name suggests, last code commit doesn't count non-code commits. It correlates strongly with codebase health.
 
 <br>
 **alive**: in development  
