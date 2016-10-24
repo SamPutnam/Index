@@ -2,8 +2,6 @@ This is an index of past and current projects, ranked by *last code commit*.
 
 *Last code commit* implies that a commit with no code - be it artwork, design, or documentation - is not counted.
 
-This metric will correlate strongly with the health of a codebase. 
-
 If a project is alive, it might take 30 seconds to download but it will run - first try.
 
 <br>
