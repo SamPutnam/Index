@@ -1,10 +1,10 @@
 This is an index of past and current projects, ranked by *last code commit*. 
 
-*Last code commit* implies that a commit with no code - be it artwork, design, or documentation - is not a commit.
+*Last code commit* implies that a commit with no code - be it artwork, design, or documentation - is not counted.
 
-This definition of a commit correlates strongly with the health of a codebase. 
+This metric will correlate strongly with the health of a codebase. 
 
-If a project is alive, run it first try.
+If a project is alive, it might take 30 seconds to download but it will run - first try.
 
 <br>
 **alive**: in development  
