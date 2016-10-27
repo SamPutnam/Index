@@ -1,6 +1,6 @@
 This is an index of past and current projects, ranked by *last code commit*, so as to favor substantive recent work. 
 
-*Last code commit* implies that a commit with no code - be it artwork, design, or documentation - is not counted.
+(*Last code commit implies that a commit with no code - be it artwork, design, or documentation - is not counted.*)
 
 If a project is alive, take 30 seconds and run it. If it doesn't run, I'll buy you a coke.
 
