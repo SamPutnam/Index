@@ -11,8 +11,8 @@ If a project is alive, it might take 30 seconds to download but it will run - fi
 **dead**: no further development planned
 <br><br>
 
-| name | type | date started | last code commit | status | 
-| ---- | --------- | ---- | ----------------------- | ---- |
+| name | area | programming | date started | last code commit | status | 
+| ---- | --------- | ---- | ----------------------- | ---- |---- |
 | [Greedy-Algorithms-in-Haskell](https://github.com/samputnam/Greedy-Algorithms-in-Haskell) | optimization | pure functional | fall 2016 | days ago | alive |
 |[Combinatorial-Optimization-in-Scala](Huffman-Algorithms-in-Scala) | optimization | functional/object-oriented | fall 2016 | days ago | alive |
 | [Kaggle-R-Supervised-Learning](https://github.com/samputnam/Kaggle-R-Supervised-Learning) | data science | functional | fall 2016 | days ago | alive |
