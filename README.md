@@ -11,18 +11,18 @@ If a project is alive, it might take 30 seconds to download but it will run - fi
 **dead**: no further development planned
 <br><br>
 
-| name | date started | last code commit | status | 
-| ---- | --------- | ---- | --------- | 
-| [greedy-algos](https://github.com/samputnam/haskell) | fall 2016 | days ago | alive |
-| [huffman-algo](https://github.com/samputnam/scala) | fall 2016 | days ago | alive |
-| [supervised-learning](https://github.com/samputnam/kaggle-r) | fall 2016 | days ago | alive |
-| [machine-learning-lander](https://github.com/samputnam/vahula) | fall 2016 | weeks ago | finished |
-| [photo-sharing-app](https://github.com/samputnam/wings) | summer 2016 | weeks ago | finished |
-| [update-profile](https://github.com/samputnam/one) | spring 2016 | months ago| dead |
-| [social-post](https://github.com/samputnam/share) | spring 2016 | months ago | usable |
-| [user-login](https://github.com/samputnam/homesafe) | spring 2016 | months ago | dead |
-| [current-location](https://github.com/dartmouth-entrepreneurial-network/ware) | spring 2016 | months ago | usable |
-| [photo-and-song](https://github.com/dartmouth-entrepreneurial-network/generic) | spring 2016 | months ago | dead |
-| [development-design-lander](https://github.com/samputnam/putnamholson) | fall 2015 | a year ago | finished |
+| name | type | date started | last code commit | status | 
+| ---- | --------- | ---- | ----------------------- | ---- |
+| [Greedy-Algorithms-in-Haskell](https://github.com/samputnam/Greedy-Algorithms-in-Haskell) | optimization | pure functional | fall 2016 | days ago | alive |
+|[Combinatorial-Optimization-in-Scala](Huffman-Algorithms-in-Scala) | optimization | functional/object-oriented | fall 2016 | days ago | alive |
+| [Kaggle-R-Supervised-Learning](https://github.com/samputnam/Kaggle-R-Supervised-Learning) | data science | functional | fall 2016 | days ago | alive |
+| [Machine-Learning-Landing-Page](https://github.com/samputnam/Machine-Learning-Lander) | web | markup | fall 2016 | weeks ago | finished |
+| [Instagram-for-Cats](https://github.com/samputnam/Instagram-for-Cats) | mobile | object-oriented | summer 2016 | weeks ago | finished |
+| [Android-Update-Profile-Open-Camera-Gallery-Activity](https://github.com/samputnam/Android-Update-Profile-Open-Camera-Gallery-Activity) | mobile | object-oriented | spring 2016 | months ago| dead |
+| [Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook](https://github.com/samputnam/Social-and-Accounts-Frameworks-Post-to-Twitter-or-Faceboo) | mobile | object-oriented | spring 2016 | months ago | usable |
+| [Firebase-Login](https://github.com/samputnam/Firebase-Login) | mobile | object-oriented | spring 2016 | months ago | dead |
+| [MapKit-Framework-Current-Location-Swift](https://github.com/dartmouth-entrepreneurial-network/MapKit-Current-Location-Swift) | mobile | object-oriented | spring 2016 | months ago | usable |
+| [AWS-or-Facebook-Login-Take-Photo-and-Play-Song-Swift](https://github.com/dartmouth-entrepreneurial-network/generic) | mobile | object-oriented | spring 2016 | months ago | dead |
+| [Development-Design-Landing-Page](https://github.com/samputnam/Development-Design-Lander) | web | markup | fall 2015 | a year ago | finished |
 
 
