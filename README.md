@@ -23,6 +23,6 @@ If a project is alive, it might take 30 seconds to download but it will run - fi
 | [user-login](https://github.com/samputnam/homesafe) | spring 2016 | months ago | dead |
 | [current-location](https://github.com/dartmouth-entrepreneurial-network/ware) | spring 2016 | months ago | usable |
 | [photo-and-song](https://github.com/dartmouth-entrepreneurial-network/generic) | spring 2016 | months ago | dead |
-| [design-lander](https://github.com/samputnam/putnamholson) | fall 2015 | a year ago | finished |
+| [development-design-lander](https://github.com/samputnam/putnamholson) | fall 2015 | a year ago | finished |
 
 
