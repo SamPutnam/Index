@@ -13,8 +13,9 @@ If a project is alive, it might take 30 seconds to download but it will run - fi
 
 | name | area | programming | date started | last code commit | status | 
 | ---- | --------- | ---- | ----------------------- | ---- |---- |
+| [Data-Science-R](https://github.com/samputnam/Data-Science-R) | data science | functional | fall 2016 | days ago | alive |
 | [Greedy-Algorithms-in-Haskell](https://github.com/samputnam/Greedy-Algorithms-in-Haskell) | optimization | pure functional | fall 2016 | days ago | alive |
-|[Combinatorial-Optimization-in-Scala](Huffman-Algorithms-in-Scala) | optimization | functional/object-oriented | fall 2016 | days ago | alive |
+|[Combinatorial-Optimization-in-Scala](https://github.com/samputnam/Combinatorial-Optimization-in-Scala) | optimization | functional/object-oriented | fall 2016 | days ago | alive |
 | [Kaggle-R-Supervised-Learning](https://github.com/samputnam/Kaggle-R-Supervised-Learning) | data science | functional | fall 2016 | days ago | alive |
 | [Machine-Learning-Landing-Page](https://github.com/samputnam/Machine-Learning-Lander) | web | markup | fall 2016 | weeks ago | finished |
 | [Instagram-for-Cats](https://github.com/samputnam/Instagram-for-Cats) | mobile | object-oriented | summer 2016 | weeks ago | finished |
