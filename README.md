@@ -16,7 +16,7 @@ If a project is alive, it might take 30 seconds to download but it will run - fi
 | [greedy-algos](https://github.com/samputnam/haskell) | fall 2016 | days ago | alive |
 | [huffman-algo](https://github.com/samputnam/scala) | fall 2016 | days ago | alive |
 | [supervised-learning](https://github.com/samputnam/kaggle-r) | fall 2016 | days ago | alive |
-| [ml-lander](https://github.com/samputnam/vahula) | fall 2016 | weeks ago | finished |
+| [machine-learning-lander](https://github.com/samputnam/vahula) | fall 2016 | weeks ago | finished |
 | [photo-sharing-app](https://github.com/samputnam/wings) | summer 2016 | weeks ago | finished |
 | [update-profile](https://github.com/samputnam/one) | spring 2016 | months ago| dead |
 | [social-post](https://github.com/samputnam/share) | spring 2016 | months ago | usable |
