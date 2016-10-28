@@ -18,7 +18,7 @@ If a project is alive, take 30 seconds to follow the README and run it. If it do
 | [Machine-Learning-Landing-Page](https://github.com/samputnam/Machine-Learning-Lander) | web | markup | fall 2016 | weeks ago | finished |
 | [Instagram-for-Cats](https://github.com/samputnam/Instagram-for-Cats) | mobile | object-oriented | summer 2016 | weeks ago | finished |
 | [Android-Update-Profile-Open-Camera-Gallery-Activity](https://github.com/samputnam/Android-Update-Profile-Open-Camera-Gallery-Activity) | mobile | object-oriented | spring 2016 | months ago| dead |
-| [Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook](https://github.com/samputnam/Social-and-Accounts-Frameworks-Post-to-Twitter-or-Faceboo) | mobile | object-oriented | spring 2016 | months ago | usable |
+| [Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook](https://github.com/samputnam/Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook) | mobile | object-oriented | spring 2016 | months ago | usable |
 | [Firebase-Login](https://github.com/samputnam/Firebase-Login) | mobile | object-oriented | spring 2016 | months ago | dead |
 | [MapKit-Framework-Current-Location-Swift](https://github.com/dartmouth-entrepreneurial-network/MapKit-Current-Location-Swift) | mobile | object-oriented | spring 2016 | months ago | usable |
 | [AWS-or-Facebook-Login-Take-Photo-and-Play-Song-Swift](https://github.com/dartmouth-entrepreneurial-network/generic) | mobile | object-oriented | spring 2016 | months ago | dead |
