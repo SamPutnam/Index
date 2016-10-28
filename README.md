@@ -1,4 +1,4 @@
-This is an index of past and current projects, ordered by last code commit, meaning artwork, design, or documentation updates aren't reflected here.
+This is an index of past and current projects, ordered by last code commit; meaning, artwork, design, or documentation updates aren't reflected here.
 
 If a project is alive, follow the README and take 30 seconds to run it. If it doesn't run, I'll buy you a coke.
 
