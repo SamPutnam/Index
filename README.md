@@ -20,8 +20,8 @@ If a project is alive, take 30 seconds to follow the README and run it. If it do
 | [Android-Update-Profile-Open-Camera-Gallery-Activity](https://github.com/samputnam/Android-Update-Profile-Open-Camera-Gallery-Activity) | mobile | object-oriented | spring 2016 | months ago| dead |
 | [Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook](https://github.com/samputnam/Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook) | mobile | object-oriented | spring 2016 | months ago | usable |
 | [Firebase-Login](https://github.com/samputnam/Firebase-Login) | mobile | object-oriented | spring 2016 | months ago | dead |
-| [MapKit-Framework-Current-Location-Swift](https://github.com/dartmouth-entrepreneurial-network/MapKit-Current-Location-Swift) | mobile | object-oriented | spring 2016 | months ago | usable |
-| [AWS-or-Facebook-Login-Take-Photo-and-Play-Song-Swift](https://github.com/dartmouth-entrepreneurial-network/generic) | mobile | object-oriented | spring 2016 | months ago | dead |
+| [MapKit-Framework-Current-Location](https://github.com/Dartmouth-entrepreneurial-network/MapKit-Current-Location) | mobile | object-oriented | spring 2016 | months ago | usable |
+| [AWS-or-Facebook-Login-Take-Photo-and-Play-Song](https://github.com/Dartmouth-entrepreneurial-network/AWS-or-Facebook-Login-Take-Photo-and-Play-Song) | mobile | object-oriented | spring 2016 | months ago | dead |
 | [Development-Design-Landing-Page](https://github.com/samputnam/Development-Design-Lander) | web | markup | fall 2015 | a year ago | finished |
 
 
