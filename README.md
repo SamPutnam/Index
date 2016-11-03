@@ -9,7 +9,7 @@ This is an index of past and current projects, ordered by last substantive commi
 
 | name | area | programming | date started | last code commit | status | 
 | ---- | --------- | ---- | ----------------------- | ---- |---- |
-| [Data-Science-R](https://github.com/samputnam/Data-Science-R) | data science | functional | fall 2016 | days ago | alive |
+| [Data-Science-Common-Lisp](https://github.com/samputnam/Data-Science-R) | data science | functional | fall 2016 | days ago | alive |
 | [Greedy-Algorithms-in-Haskell](https://github.com/samputnam/Greedy-Algorithms-in-Haskell) | optimization | pure functional | fall 2016 | days ago | alive |
 |[Combinatorial-Optimization-in-Scala](https://github.com/samputnam/Combinatorial-Optimization-in-Scala) | optimization | functional/object-oriented | fall 2016 | days ago | alive |
 | [Kaggle-R-Supervised-Learning](https://github.com/samputnam/Kaggle-R-Supervised-Learning) | data science | functional | fall 2016 | days ago | alive |
