@@ -1,6 +1,4 @@
-This is an index of past and current projects, ordered by last code commit. Artwork, design, or documentation commits aren't reflected here.
-
-If a project is alive, follow the README and take 30 seconds to run it. If it doesn't run, I'll buy you a coke.
+This is an index of past and current projects, ordered by last substantive commit.
 
 <br>
 **alive**: in development  
