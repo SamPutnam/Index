@@ -8,7 +8,7 @@ This is an index of past and current projects, ordered by last substantive commi
 <br><br>
 
 | name | area | programming | date started | last code commit | status | 
-| ---- | --------- | ---- | ----------------------- | ---- |---- |
+| ---- | --------- | ---- | -------------- | ---- |---- |
 | [Greedy-Algorithms-in-Haskell](https://github.com/samputnam/Greedy-Algorithms-in-Haskell) | optimization | pure functional | fall 2016 | weeks ago | alive |
 | [Data-Science-Common-Lisp](https://github.com/samputnam/Data-Science-R) | data science | functional | fall 2016 | a month ago | alive |
 |[Combinatorial-Optimization-in-Scala](https://github.com/samputnam/Combinatorial-Optimization-in-Scala) | optimization | functional/object-oriented | fall 2016 | a month ago | alive |
@@ -18,7 +18,7 @@ This is an index of past and current projects, ordered by last substantive commi
 | [Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook](https://github.com/samputnam/Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook) | mobile | object-oriented | spring 2016 | 6 months ago | usable |
 | [Firebase-Login](https://github.com/samputnam/Firebase-Login) | mobile | object-oriented | spring 2016 | 6 months ago | dead |
 | [MapKit-Framework-Current-Location](https://github.com/Dartmouth-entrepreneurial-network/MapKit-Current-Location) | mobile | object-oriented | spring 2016 | 9 months ago | usable |
-| [AWS-or-Facebook-Login-Take-Photo-and-Play-Song](https://github.com/Dartmouth-entrepreneurial-network/AWS-or-Facebook-Login-Take-Photo-and-Play-Song) | mobile | object-oriented | spring 2016 | a year ago | dead |
+| [AWS-or-Facebook-Login-Take-Photo-and-Play-Song](https://github.com/Dartmouth-entrepreneurial-network/AWS-or-Facebook-Login-Take-Photo-and-Play-Song) | mobile | object-oriented | spring 2016 | 9 months ago | dead |
 
 
 
