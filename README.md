@@ -18,7 +18,7 @@ This is an index of past and current projects, ordered by last substantive commi
 | [Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook](https://github.com/samputnam/Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook) | mobile | object-oriented | spring 2016 | months ago | usable |
 | [Firebase-Login](https://github.com/samputnam/Firebase-Login) | mobile | object-oriented | spring 2016 | months ago | dead |
 | [MapKit-Framework-Current-Location](https://github.com/Dartmouth-entrepreneurial-network/MapKit-Current-Location) | mobile | object-oriented | spring 2016 | months ago | usable |
-| [AWS-or-Facebook-Login-Take-Photo-and-Play-Song](https://github.com/Dartmouth-entrepreneurial-network/AWS-or-Facebook-Login-Take-Photo-and-Play-Song) | mobile | object-oriented | spring 2016 | almost a year ago | dead |
+| [AWS-or-Facebook-Login-Take-Photo-and-Play-Song](https://github.com/Dartmouth-entrepreneurial-network/AWS-or-Facebook-Login-Take-Photo-and-Play-Song) | mobile | object-oriented | spring 2016 | a year ago | dead |
 
 
 
