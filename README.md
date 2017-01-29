@@ -9,7 +9,7 @@ This is an index of past and current open source projects, ordered by last subst
 
 | name | client | field | last code commit | duration in development | status | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
-| [Grid-Single-Page](https://github.com/SamPutnam/Grid-Single-Page) | consulting | portfolio web | days ago | months | alive |
+| [Grid-Single-Page](https://github.com/SamPutnam/Grid-Single-Page) | consulting | web | days ago | months | alive |
 | [Farm-Members-Area-Backend-PayPal](https://github.com/samputnam/Farm-Members-Area-Backend-PayPal) | paas | web | weeks ago | weeks | usable |
 |[Deep-Learning-for-Engineering-Team](https://github.com/samputnam/Deep-Learning-for-Engineering-Team) | saas | data science | weeks ago | weeks | dead |
 |[Deep-Learning-for-Business-Team](https://github.com/samputnam/Deep-Learning-for-Business-Team) | consulting support | data science | a month ago | days | dead |
