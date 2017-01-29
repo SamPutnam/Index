@@ -23,7 +23,7 @@ This is an index of past and current open source projects, ordered by last subst
 | [Firebase-Login](https://github.com/samputnam/Firebase-Login) | open source | mobile | 9 months ago | days | dead |
 | [MapKit-Framework-Current-Location](https://github.com/Dartmouth-entrepreneurial-network/MapKit-Current-Location) | nsf | mobile | 9 months ago | days | usable |
 | [AWS-or-Facebook-Login-Take-Photo-and-Play-Song](https://github.com/Dartmouth-entrepreneurial-network/AWS-or-Facebook-Login-Take-Photo-and-Play-Song) | dartmouth forum | mobile | 9 months ago | weeks | dead |
-| [Name-Static](https://github.com/SamPutnam/Name-Static) | self | timeless web | a year ago | months | finished |
+| [Name-Static](https://github.com/SamPutnam/Name-Static) | self | web | a year ago | months | finished |
 | [Short-Programs-and-Other-Languages](https://github.com/SamPutnam/Short-Programs-and-Other-Languages) | wiki | github markdown | a year ago | days | alive |
 | [Development-Design-Lander](https://github.com/SamPutnam/Development-Design-Lander) | digital marketing | web | a year and a half ago | days | finished |
 
