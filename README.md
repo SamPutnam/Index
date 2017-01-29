@@ -7,25 +7,25 @@ This is an index of past and current open source projects, ordered by last subst
 **dead**: no further development planned
 <br><br>
 
-| name | client | field | date started | last code commit | status | 
+| name | client | field | last code commit | date started | status | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
-| [Grid-Single-Page](https://github.com/SamPutnam/Grid-Single-Page) | consulting | portfolio web | summer 2016 | days ago | alive |
-| [Farm-Members-Area-Backend-PayPal](https://github.com/samputnam/Farm-Members-Area-Backend-PayPal) | paas | web | winter 2016 | weeks ago | usable |
-|[Deep-Learning-for-Engineering-Team](https://github.com/samputnam/Deep-Learning-for-Engineering-Team) | saas | data science | fall 2016 | a month ago | dead |
-|[Deep-Learning-for-Business-Team](https://github.com/samputnam/Deep-Learning-for-Business-Team) | consulting support | data science | fall 2016 | a month ago | dead |
-| [Deep-Learning-Education](https://github.com/samputnam/Deep-Learning-Education) | non-profit  | web | fall 2016 | a month ago | dead |
-| [Typeform-Stripe](https://github.com/samputnam/Typeform-Stripe) | ecommerce | web | fall 2016 | a month ago | finished |
-| [Job-Site-For-9-5-Jobs](https://github.com/samputnam/Job-Site-For-9-5-Jobs) | human resources | web | fall 2016 | a month ago | dead |
-| [Instagram-for-Cats](https://github.com/samputnam/Instagram-for-Cats) | community | mobile | summer 2016 | 3 months ago | finished |
-| [Android-Update-Profile-Open-Camera-Gallery-Activity](https://github.com/samputnam/Android-Update-Profile-Open-Camera-Gallery-Activity) | open source | mobile | spring 2016 | 6 months ago| dead |
-| [Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook](https://github.com/samputnam/Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook) | contract | mobile | spring 2016 | 6 months ago | usable |
-| [Firebase-Login](https://github.com/samputnam/Firebase-Login) | open source | mobile | spring 2016 | 6 months ago | dead |
-| [MapKit-Framework-Current-Location](https://github.com/Dartmouth-entrepreneurial-network/MapKit-Current-Location) | nsf | mobile | spring 2016 | 9 months ago | usable |
-| [AWS-or-Facebook-Login-Take-Photo-and-Play-Song](https://github.com/Dartmouth-entrepreneurial-network/AWS-or-Facebook-Login-Take-Photo-and-Play-Song) | dartmouth forum | mobile | spring 2016 | 9 months ago | dead |
-| [Machine-Learning-Lander](https://github.com/SamPutnam/Machine-Learning-Lander) | nsf | data science | spring 2016 | 9 months ago | finished |
-| [Name-Static](https://github.com/SamPutnam/Name-Static) | self | timeless web | winter 2015 | a year ago | finished |
-| [Short-Programs-and-Other-Languages](https://github.com/SamPutnam/Short-Programs-and-Other-Languages) | wiki | github markdown | winter 2015 | a year ago | alive |
-| [Development-Design-Lander](https://github.com/SamPutnam/Development-Design-Lander) | digital marketing | web | fall 2015 | a year and a half ago | finished |
+| [Grid-Single-Page](https://github.com/SamPutnam/Grid-Single-Page) | consulting | portfolio web | days ago | summer 2016 | alive |
+| [Farm-Members-Area-Backend-PayPal](https://github.com/samputnam/Farm-Members-Area-Backend-PayPal) | paas | web | weeks ago | winter 2016 | usable |
+|[Deep-Learning-for-Engineering-Team](https://github.com/samputnam/Deep-Learning-for-Engineering-Team) | saas | data science | a month ago | fall 2016 | dead |
+|[Deep-Learning-for-Business-Team](https://github.com/samputnam/Deep-Learning-for-Business-Team) | consulting support | data science | a month ago | fall 2016 | dead |
+| [Deep-Learning-Education](https://github.com/samputnam/Deep-Learning-Education) | non-profit  | web | a month ago | fall 2016 | dead |
+| [Typeform-Stripe](https://github.com/samputnam/Typeform-Stripe) | ecommerce | web | a month ago | fall 2016 | finished |
+| [Job-Site-For-9-5-Jobs](https://github.com/samputnam/Job-Site-For-9-5-Jobs) | human resources | web | a month ago | fall 2016 | dead |
+| [Instagram-for-Cats](https://github.com/samputnam/Instagram-for-Cats) | community | mobile | 3 months ago | summer 2016 | finished |
+| [Machine-Learning-Lander](https://github.com/SamPutnam/Machine-Learning-Lander) | nsf | data science | 6 months ago | spring 2016 | finished |
+| [Android-Update-Profile-Open-Camera-Gallery-Activity](https://github.com/samputnam/Android-Update-Profile-Open-Camera-Gallery-Activity) | open source | mobile | 6 months ago | spring 2016| dead |
+| [Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook](https://github.com/samputnam/Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook) | contract | mobile | 6 months ago | spring 2016 | usable |
+| [Firebase-Login](https://github.com/samputnam/Firebase-Login) | open source | mobile | 6 months ago | spring 2016 | dead |
+| [MapKit-Framework-Current-Location](https://github.com/Dartmouth-entrepreneurial-network/MapKit-Current-Location) | nsf | mobile | 9 months ago | spring 2016 | usable |
+| [AWS-or-Facebook-Login-Take-Photo-and-Play-Song](https://github.com/Dartmouth-entrepreneurial-network/AWS-or-Facebook-Login-Take-Photo-and-Play-Song) | dartmouth forum | mobile | 9 months ago | spring 2016 | dead |
+| [Name-Static](https://github.com/SamPutnam/Name-Static) | self | timeless web | a year ago | winter 2015 | finished |
+| [Short-Programs-and-Other-Languages](https://github.com/SamPutnam/Short-Programs-and-Other-Languages) | wiki | github markdown | a year ago | winter 2015 | alive |
+| [Development-Design-Lander](https://github.com/SamPutnam/Development-Design-Lander) | digital marketing | web | a year and a half ago | fall 2015 | finished |
 
 
 
