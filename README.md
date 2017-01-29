@@ -9,6 +9,7 @@ This is an index of past and current open source projects, ordered by last subst
 
 | name | client | field | date started | last code commit | status | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
+| [Grid-Single-Page](https://github.com/SamPutnam/Grid-Single-Page) | consulting | portfolio web | summer 2016 | days ago | alive |
 | [Farm-Members-Area-Backend-PayPal](https://github.com/samputnam/Farm-Members-Area-Backend-PayPal) | paas | web | winter 2016 | weeks ago | usable |
 |[Deep-Learning-for-Engineering-Team](https://github.com/samputnam/Deep-Learning-for-Engineering-Team) | saas | data science | fall 2016 | a month ago | dead |
 |[Deep-Learning-for-Business-Team](https://github.com/samputnam/Deep-Learning-for-Business-Team) | consulting support | data science | fall 2016 | a month ago | dead |
@@ -16,7 +17,6 @@ This is an index of past and current open source projects, ordered by last subst
 | [Typeform-Stripe](https://github.com/samputnam/Typeform-Stripe) | ecommerce | web | fall 2016 | a month ago | finished |
 | [Job-Site-For-9-5-Jobs](https://github.com/samputnam/Job-Site-For-9-5-Jobs) | human resources | web | fall 2016 | a month ago | dead |
 | [Instagram-for-Cats](https://github.com/samputnam/Instagram-for-Cats) | community | mobile | summer 2016 | 3 months ago | finished |
-| [SamPutnam/Grid-Single-Page](https://github.com/SamPutnam/Grid-Single-Page) | consulting | portfolio web | summer 2016 | 3 months ago | alive |
 | [Android-Update-Profile-Open-Camera-Gallery-Activity](https://github.com/samputnam/Android-Update-Profile-Open-Camera-Gallery-Activity) | open source | mobile | spring 2016 | 6 months ago| dead |
 | [Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook](https://github.com/samputnam/Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook) | contract | mobile | spring 2016 | 6 months ago | usable |
 | [Firebase-Login](https://github.com/samputnam/Firebase-Login) | open source | mobile | spring 2016 | 6 months ago | dead |
