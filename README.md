@@ -7,7 +7,7 @@ This is an index of past and current open source projects, ordered by last subst
 **dead**: no further development planned
 <br><br>
 
-| name | client | field | last code commit | status | duration in development | 
+| name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
 | [Grid-Single-Page](https://github.com/SamPutnam/Grid-Single-Page) | consulting | web | days ago | alive | months |
 | [Farm-Members-Area-Backend-PayPal](https://github.com/samputnam/Farm-Members-Area-Backend-PayPal) | paas | web | weeks ago | usable | weeks |
