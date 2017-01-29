@@ -22,10 +22,10 @@ This is an index of past and current projects, ordered by last substantive commi
 | [Firebase-Login](https://github.com/samputnam/Firebase-Login) | open source | mobile | spring 2016 | 6 months ago | dead |
 | [MapKit-Framework-Current-Location](https://github.com/Dartmouth-entrepreneurial-network/MapKit-Current-Location) | NSF | mobile | spring 2016 | 9 months ago | usable |
 | [AWS-or-Facebook-Login-Take-Photo-and-Play-Song](https://github.com/Dartmouth-entrepreneurial-network/AWS-or-Facebook-Login-Take-Photo-and-Play-Song) | dartmouth forum | mobile | spring 2016 | 9 months ago | dead |
-| [Machine-Learning-Lander](https://github.com/SamPutnam/Machine-Learning-Lander) | NSF | web | spring 2016 | 9 months ago | usable |
-| [Name-Static](https://github.com/SamPutnam/Name-Static) | self | timeless web | winter 2015 | a year ago | usable |
+| [Machine-Learning-Lander](https://github.com/SamPutnam/Machine-Learning-Lander) | NSF | web | spring 2016 | 9 months ago | finished |
+| [Name-Static](https://github.com/SamPutnam/Name-Static) | self | timeless web | winter 2015 | a year ago | finished |
 | [Short-Programs-and-Other-Languages](https://github.com/SamPutnam/Short-Programs-and-Other-Languages) | wiki | github | winter 2015 | a year ago | usable |
-| [Development-Design-Lander](https://github.com/SamPutnam/Development-Design-Lander) | digital marketing | web | fall 2015 | a year and a half ago | usable |
+| [Development-Design-Lander](https://github.com/SamPutnam/Development-Design-Lander) | digital marketing | web | fall 2015 | a year and a half ago | finished |
 
 
 
