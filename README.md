@@ -10,7 +10,7 @@ This is an index of past and current open source projects, ordered by last subst
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
 | [Grid-Single-Page](https://github.com/SamPutnam/Grid-Single-Page) | consulting | web | days ago | alive | months |
-| [Deep-Neural-Network-Training-AWS-GPU-Speedup ](https://research.vahula.com/dl-on-an-aws-gpu-d136342ea9d2#.11zac6xyh) | deep learning | amazon web services | weeks ago | alive | weeks |
+| [Deep-Neural-Network-Training-AWS-GPU-Speedup ](https://research.vahula.com/dl-on-an-aws-gpu-d136342ea9d2#.11zac6xyh) | deep learning | cloud GPU | weeks ago | alive | weeks |
 | [Indexing-Input-Data-for-a-Convolutional-Neural-Network-in-R](https://samputnam.quora.com/Indexing-Input-Data-for-a-Convolutional-Neural-Network-in-R) | matrix operations | cloud notebook | weeks ago | usable | a week |
 | [Sentiment-Analysis-for-a-Naive-Bayes-Classifier-in-Python](https://samputnam.quora.com/Sentiment-Analysis-of-WSJ-and-NYT-Front-Page-Presidential-Headlines-for-a-Naive-Bayes-Classifier-in-Python) | natural language processing | cloud notebook | weeks ago | alive | weeks |
 | [Understanding Mistaken Image Classification on NMIST’s Handwritten Digits with TensorFlow’s TF.Learn](https://research.vahula.com/classifying-images-of-nmist-handwritten-digits-with-tensorflows-tf-learn-9309e3841d85#.j8o0mqx5z) | neural networks | cloud notebook | weeks ago | usable | days |
