@@ -1,11 +1,11 @@
 This is an index of past and current open source projects, ordered by last substantive commit.
 
-<br>
 **alive**: in development  
 **finished**: project goals met, implies usability & death  
-**usable**: project is useful/runnable  
+**usable**: project is useful/runnable <br>
 **dead**: no further development planned
-<br><br>
+<br>
+<br>
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
