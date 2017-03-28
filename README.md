@@ -9,6 +9,9 @@ This is an index of past and current open source projects, ordered by last subst
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
+| [VUC-Company-Website](http://vuc.us) | core business development | web | March 2017 | alive | days |
+| [Natural-Language-Processing](https://www.kaggle.com/samdeeplearning/d/samdeeplearning/deepnlp/deep-natural-language-processing) | consulting | cloud notebook | February 2017 | alive | days |
+| [Deep-Learning-Consultant-Website](http://deeplearningconsultant.com) | consulting business development | web | February 2017 | alive | days |
 | [Grid-Single-Page](https://github.com/SamPutnam/Grid-Single-Page) | consulting | web | January 2017 | alive | months |
 | [Deep-Neural-Network-Training-AWS-GPU-Speedup ](https://research.vahula.com/dl-on-an-aws-gpu-d136342ea9d2#.11zac6xyh) | deep learning | cloud GPU | Dec '16 | alive | weeks |
 | [Indexing-Input-Data-for-a-Convolutional-Neural-Network-in-R](https://samputnam.quora.com/Indexing-Input-Data-for-a-Convolutional-Neural-Network-in-R) | matrix operations | cloud notebook | December 2016 | usable | a week |
