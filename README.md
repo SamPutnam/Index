@@ -30,7 +30,7 @@ This is an index of past and current open source projects, ordered by last subst
 | [Machine-Learning-Lander](https://github.com/SamPutnam/Machine-Learning-Lander) | nsf | data science | September 2016 | finished | months |
 | [Android-Update-Profile-Open-Camera-Gallery-Activity](https://github.com/samputnam/Android-Update-Profile-Open-Camera-Gallery-Activity) | friends | mobile | August 2016 | dead | weeks |
 | [Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook](https://github.com/samputnam/Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook) | contract | mobile | July 2016 | usable | weeks |
-| [Firebase-Login](https://github.com/samputnam/Firebase-Login) | family | mobile | June 2016 | dead | days |
+| [Firebase-Login](https://github.com/samputnam/Firebase-Login) | ios development | mobile | June 2016 | dead | days |
 | [MapKit-Framework-Current-Location](https://github.com/Dartmouth-entrepreneurial-network/MapKit-Current-Location) | nsf | mobile | May 2016 | usable | days |
 | [AWS-or-Facebook-Login-Take-Photo-and-Play-Song](https://github.com/Dartmouth-entrepreneurial-network/AWS-or-Facebook-Login-Take-Photo-and-Play-Song) | dartmouth forum | mobile | April 2016 | dead | weeks |
 | [Name-Static](https://github.com/SamPutnam/Name-Static) | self | web | March 2016 | finished | months |
