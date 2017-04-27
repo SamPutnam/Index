@@ -9,7 +9,8 @@ This is an index of past and current open source projects, ordered by last subst
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
-| [VUC-Company-Website](http://vuc.us) | core business development | web | March 2017 | alive | days |
+| [Dove-ai-Website](http://github.com/dove-ai) | contact me for pro bono consulting | web | April 2017 | alive | days |
+| [VUC-Company-Website](http://github.com/vuc-us) | core business development | web | March 2017 | alive | days |
 | [Natural-Language-Processing](https://www.kaggle.com/samdeeplearning/d/samdeeplearning/deepnlp/deep-natural-language-processing) | consulting | cloud notebook | February 2017 | alive | days |
 | [Deep-Learning-Consultant-Website](http://deeplearningconsultant.com) | consulting business development | web | February 2017 | alive | days |
 | [Grid-Single-Page](https://github.com/SamPutnam/Grid-Single-Page) | consulting | web | January 2017 | alive | months |
