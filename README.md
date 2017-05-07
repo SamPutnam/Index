@@ -9,11 +9,18 @@ This is an index of past and current open source projects, ordered by last subst
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
+| name | client | field | last code commit | status | time in development | 
+| ---- | --------- | ---- | -------------- | ---- |---- |
 | [Dove-ai-Website](http://github.com/dove-ai) | contact me for pro bono consulting | web | April 2017 | alive | days |
-| [VUC-Company-Website](http://github.com/vuc-us) | core business development | web | March 2017 | alive | days |
+| [Facebook-Ruder-and-Google-Deepdream-Technique-for-Video-Style-Transfer](http://samputnam.org/facebook-ruder-and-google-deepdream-technique-for-video-style-transfer) | consulting proposal | deep convolutional neural network in Torch | April 2017 | alive | days |
+| [Music-Generation-Google-Magenta-Best-Demo-NIPS-2016-LSTM-RNN](http://samputnam.org/deep-learning-zero-to-one-music-generation) | automatic music synthesis | Deep LSTM Recurrent Neural Network in TensorFlow | March 2017 | alive | days || [VUC-Company-Website](http://github.com/vuc-us) | core business development | web | March 2017 | alive | days |
 | [Natural-Language-Processing](https://www.kaggle.com/samdeeplearning/d/samdeeplearning/deepnlp/deep-natural-language-processing) | consulting | cloud notebook | February 2017 | alive | days |
 | [Deep-Learning-Consultant-Website](http://deeplearningconsultant.com) | consulting business development | web | February 2017 | alive | days |
+| [Unconditioned-Image-Generation-Google-DeepMind-paper-with-TensorFlow](http://samputnam.org/deep-learning-zero-to-one-image-generation) | google sandbox cambridge | Pixel-cnn - LSTM/CNN hybrid in TensorFlow | Feb 2017 | alive | days |
+| [Value-Iteration-Networks](https://twitter.com/samdeeplearning/status/831943425331232774) | consulting | Deep CNN in TensorFlow | Feb 2017 | alive | days |
 | [Grid-Single-Page](https://github.com/SamPutnam/Grid-Single-Page) | consulting | web | January 2017 | alive | months |
+| [Deep-Reinforcement-Learning](https://twitter.com/samdeeplearning/status/831951216238276611) | contest | Deep Q CNN Learning | Jan 2017 | alive | days |
+| [Biaxial-Recurrent-Neural-Network](https://twitter.com/samdeeplearning/status/826895187867795456) | music | LSTM/CNN hybrid in Theano | Jan 2017 | alive | days |
 | [Deep-Neural-Network-Training-AWS-GPU-Speedup ](https://research.vahula.com/dl-on-an-aws-gpu-d136342ea9d2#.11zac6xyh) | deep learning | cloud GPU | Dec '16 | alive | weeks |
 | [Indexing-Input-Data-for-a-Convolutional-Neural-Network-in-R](https://samputnam.quora.com/Indexing-Input-Data-for-a-Convolutional-Neural-Network-in-R) | matrix operations | cloud notebook | December 2016 | usable | a week |
 | [Sentiment-Analysis-for-a-Naive-Bayes-Classifier-in-Python](https://samputnam.quora.com/Sentiment-Analysis-of-WSJ-and-NYT-Front-Page-Presidential-Headlines-for-a-Naive-Bayes-Classifier-in-Python) | natural language processing | cloud notebook | December 2016 | alive | weeks |
