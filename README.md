@@ -27,20 +27,20 @@ This is an index of past and current open source projects, ordered by last subst
 | [Transparent ML with scikit-learn’s Decision Tree Classifier](https://research.vahula.com/scikit-learns-decision-tree-classifier-698ddbb05b#.qtn5hbv91) | machine learning | cloud notebook | Nov '16 | usable | hours |
 | [Adding-an-Upgrade-Menu-Item-to-a-MacOS-App](https://samputnam.quora.com/Adding-an-%E2%80%9CUpgrade%E2%80%9D-Menu-Item-to-a-MacOS-App) | mac os development | desktop | November 2016 | usable | hours |
 | [Feature Selection and Exploratory Analysis with the SciPy Stack](https://research.vahula.com/using-the-scipy-stack-for-exploratory-analysis-1327717d9656#.5yi0omnmi) | data science | cloud notebook | October 2016 | usable | hours |
-| [Farm-Members-Area-Backend-PayPal](https://github.com/samputnam/Farm-Members-Area-Backend-PayPal) | paas | web | October 2016 | usable | weeks |
+| [Farm-Members-Area-Backend-PayPal](https://github.com/samputnam/Farm-Members-Area-Backend-PayPal) | paas | web | October 2016 | usable | a week |
 |[Deep-Learning-for-Engineering-Team](https://github.com/samputnam/Deep-Learning-for-Engineering-Team) | saas | data science | October 2016 | dead | weeks |
 |[Deep-Learning-for-Business-Team](https://github.com/samputnam/Deep-Learning-for-Business-Team) | consulting support | data science | October 2016 | dead | days |
 | [Deep-Learning-Education](https://github.com/samputnam/Deep-Learning-Education) | non-profit  | web | October 2016 | dead | days |
 | [Typeform-Stripe](https://github.com/samputnam/Typeform-Stripe) | ecommerce | web | October 2016 | finished | days |
-| [Job-Site-For-9-5-Jobs](https://github.com/samputnam/Job-Site-For-9-5-Jobs) | human resources | web | October 2016 | dead | weeks |
-| [Instagram-for-Cats](https://github.com/samputnam/Instagram-for-Cats) | community | mobile | October 2016 | finished | months |
-| [Machine-Learning-Lander](https://github.com/SamPutnam/Machine-Learning-Lander) | nsf | data science | September 2016 | finished | months |
-| [Android-Update-Profile-Open-Camera-Gallery-Activity](https://github.com/samputnam/Android-Update-Profile-Open-Camera-Gallery-Activity) | friends | mobile | August 2016 | dead | weeks |
-| [Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook](https://github.com/samputnam/Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook) | contract | mobile | July 2016 | usable | weeks |
+| [Job-Site-For-9-5-Jobs](https://github.com/samputnam/Job-Site-For-9-5-Jobs) | human resources | web | October 2016 | dead | a week |
+| [Instagram-for-Cats](https://github.com/samputnam/Instagram-for-Cats) | community | mobile | October 2016 | finished | a month |
+| [Machine-Learning-Lander](https://github.com/SamPutnam/Machine-Learning-Lander) | nsf | data science | September 2016 | finished | a week |
+| [Android-Update-Profile-Open-Camera-Gallery-Activity](https://github.com/samputnam/Android-Update-Profile-Open-Camera-Gallery-Activity) | friends | mobile | August 2016 | dead | a week |
+| [Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook](https://github.com/samputnam/Social-and-Accounts-Frameworks-Post-to-Twitter-or-Facebook) | contract | mobile | July 2016 | usable | days |
 | [Firebase-Login](https://github.com/samputnam/Firebase-Login) | ios development | mobile | June 2016 | dead | days |
 | [MapKit-Framework-Current-Location](https://github.com/Dartmouth-entrepreneurial-network/MapKit-Current-Location) | nsf | mobile | May 2016 | usable | days |
 | [AWS-or-Facebook-Login-Take-Photo-and-Play-Song](https://github.com/Dartmouth-entrepreneurial-network/AWS-or-Facebook-Login-Take-Photo-and-Play-Song) | dartmouth forum | mobile | April 2016 | dead | weeks |
-| [Name-Static](https://github.com/SamPutnam/Name-Static) | self | web | March 2016 | finished | months |
+| [Name-Static](https://github.com/SamPutnam/Name-Static) | self | web | March 2016 | finished | a week |
 | [Short-Programs-and-Other-Languages](https://github.com/SamPutnam/Short-Programs-and-Other-Languages) | self | wiki | February 2016 | alive | days |
 | [Development-Design-Lander](https://github.com/SamPutnam/Development-Design-Lander) | digital marketing | web | January 2016 | finished | days |
 | [Data-Center-Distributed-Optimal-Control](https://github.com/SamPutnam/Data-Center-Distributed-Optimal-Control) | google | reinforcement learning | 2015 | finished | months |
