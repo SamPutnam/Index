@@ -17,7 +17,7 @@ This is an index of past and current open source projects, ordered by last subst
 | [Deep-Learning-Consultant-Website](http://deeplearningconsultant.com) | consulting business development | web | February 2017 | alive | days |
 | [Unconditioned-Image-Generation-Google-DeepMind-paper-with-TensorFlow](https://medium.com/@SamPutnam/this-is-the-1st-deep-learning-zero-to-one-newsletter-this-one-is-called-image-generation-935bcaf0f37c) | google sandbox cambridge | Pixel-cnn - LSTM/CNN hybrid in TensorFlow | Feb 2017 | alive | days |
 | [Value-Iteration-Networks](https://twitter.com/samdeeplearning/status/831943425331232774) | consulting | Deep CNN in TensorFlow | Feb 2017 | alive | days |
-| [Grid-Single-Page](https://github.com/SamPutnam/Grid-Single-Page) | consulting | web | January 2017 | alive | months |
+| [Grid-Single-Page](https://github.com/SamPutnam/Grid-Single-Page) | consulting | web | January 2017 | alive | ongoing |
 | [Deep-Reinforcement-Learning](https://twitter.com/samdeeplearning/status/831951216238276611) | contest | Deep Q CNN Learning | Jan 2017 | alive | days |
 | [Biaxial-Recurrent-Neural-Network](https://twitter.com/samdeeplearning/status/826895187867795456) | music | LSTM/CNN hybrid in Theano | Jan 2017 | alive | days |
 | [Deep-Neural-Network-Training-AWS-GPU-Speedup ](https://research.vahula.com/dl-on-an-aws-gpu-d136342ea9d2#.11zac6xyh) | deep learning | cloud GPU | Dec '16 | alive | weeks |
