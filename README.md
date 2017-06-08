@@ -9,6 +9,7 @@ This is an index of past and current open source projects, ordered by last subst
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
+| [Real Estate Closing Price Gradient Boosting Machine Subsampling Heuristic for Highest Accuracy](https://www.slideshare.net/SamuelPutnam/transforming-healthcare-finance-energy-and-commerce-with-machine-learning-case-study-included-enterprise-deep-learning/20) | consulting proposal | gradient boosting machine - XGBoost| April 2017 | alive | days |
 | [Dove-ai-Website](http://github.com/dove-ai) | contact me for pro bono consulting | web | April 2017 | alive | days |
 | [Enterprise-Deep-Learning-Website](http://github.com/EnterpriseDeepLearning) | contact me for deep learning for healthcare, finance, energy, or commerce consulting | web | April 2017 | alive | days |
 | [Facebook-Ruder-and-Google-Deepdream-Technique-for-Video-Style-Transfer](https://medium.com/@SamPutnam/deep-learning-zero-to-one-art-generation-b532dd0aa390) | consulting proposal | deep convolutional neural network in Torch | April 2017 | alive | days |
