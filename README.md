@@ -9,6 +9,8 @@ This is an index of past and current open source projects, ordered by last subst
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
+| [Deep Learning on Android](https://www.linkedin.com/hp/update/6280034396732956672) | Demonstration | Deep Learning for Information Retrieval with the Clarifai API | June 2017 | alive | days |
+| [Deep Learning on iOS](https://www.slideshare.net/SamuelPutnam/tensorflow-serving-deep-learning-on-mobile-and-deeplearning4j-on-the-jvm-enterprise-deep-learningpdf/13) | Demonstration | Deep Convolutional Neural Networks | June 2017 | alive | days |
 | [Real Estate Closing Price Gradient Boosting Machine Subsampling Heuristic for Highest Accuracy](https://www.slideshare.net/SamuelPutnam/transforming-healthcare-finance-energy-and-commerce-with-machine-learning-case-study-included-enterprise-deep-learning/20) | consulting proposal | gradient boosting machine - XGBoost| May 2017 | alive | days |
 | [Dove-ai-Website](http://github.com/dove-ai) | contact me for pro bono consulting | web | April 2017 | alive | days |
 | [Enterprise-Deep-Learning-Website](http://github.com/EnterpriseDeepLearning) | contact me for deep learning for healthcare, finance, energy, or commerce consulting | web | April 2017 | alive | days |
